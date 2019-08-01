@@ -1,0 +1,31 @@
+.parte-top{
+	border-bottom: solid 2px orange;
+	margin-bottom: 5vw;
+}
+.comidasc{
+	padding: 1%;
+}
+.tt1{
+	width: 50%;
+}
+.visitas{	
+	border-bottom: solid 2px blue;
+	/*margin-top: 5vw;*/
+}
+.subvisitas{
+	color: blue;
+	/*background-color: #ffdd99;*/
+}
+.boton{
+	background-color: darkorange;
+}
+.pb1{
+	background-color: #ffdd99;
+	filter: opacity(81%);
+}
+body{
+	background-image: url(../Imagenes/fondo6.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
